@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\митя\desktop\22\consoleapplication12\source.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\митя\desktop\22\consoleapplication12\source.cpp(69): error C2228: left of '.getAge' must have class/struct/union
+  c:\users\митя\desktop\22\consoleapplication12\source.cpp(69): note: type is 'asper *'
+  c:\users\митя\desktop\22\consoleapplication12\source.cpp(69): note: did you intend to use '->' instead?
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\algorithm(441): note: see reference to function template instantiation 'bool main::<lambda_ac0f2f3172068ab91b2be791a5f73c72>::operator ()<asper*>(asper *) const' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\algorithm(458): note: see reference to function template instantiation '_OutIt std::_Copy_if_unchecked<asper**,_Iter,_Pr>(_InIt,_InIt,_OutIt,_Pr &)' being compiled
+          with
+          [
+              _OutIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,
+              _Pr=main::<lambda_ac0f2f3172068ab91b2be791a5f73c72>,
+              _InIt=asper **
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\algorithm(468): note: see reference to function template instantiation '_OutIt std::_Copy_if_no_deprecate<_InIt,_OutIt,_Pr>(_InIt,_InIt,_OutIt,_Pr &)' being compiled
+          with
+          [
+              _OutIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,
+              _Pr=main::<lambda_ac0f2f3172068ab91b2be791a5f73c72>
+          ]
+  c:\users\митя\desktop\22\consoleapplication12\source.cpp(69): note: see reference to function template instantiation '_OutIt std::copy_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,main::<lambda_ac0f2f3172068ab91b2be791a5f73c72>>(_InIt,_InIt,_OutIt,_Pr)' being compiled
+          with
+          [
+              _OutIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<asper *>>>,
+              _Pr=main::<lambda_ac0f2f3172068ab91b2be791a5f73c72>
+          ]

@@ -1,0 +1,12 @@
+aSurname aName aPatronymic 33 aGroup 0 1
+aSurname2 aName2 aPatronymic2 22 aGroup - 2 0 0
+aSurname3 aName3 aPatronymic3 11 aGroup - 3 1 0
+aSurname4 aName4 aPatronymic4 44 aGroup - 4 1 1
+aSurname aName aPatronymic 33 aGroup 0 1
+aSurname2 aName2 aPatronymic2 22 aGroup - 2 0 0
+aSurname3 aName3 aPatronymic3 11 aGroup - 3 1 0
+aSurname4 aName4 aPatronymic4 44 aGroup - 4 1 1
+aSurname aName aPatronymic 33 aGroup 0 1
+aSurname2 aName2 aPatronymic2 22 aGroup - 2 0 0
+aSurname3 aName3 aPatronymic3 11 aGroup - 3 1 0
+aSurname4 aName4 aPatronymic4 44 aGroup - 4 1 1
